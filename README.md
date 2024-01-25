@@ -3,7 +3,7 @@
 
 <h4>It involves assessing various performance indicators and statistical tests.</h4>
 
-The goal is to analyze Facebook data
+The goal is to analyze Facebook data on a brand
 
 <h4>Measures I implemented</h4>
 
