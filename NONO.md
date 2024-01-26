@@ -1,1 +1,0 @@
-# In every thing give thanks to God
